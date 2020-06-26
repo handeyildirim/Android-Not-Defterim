@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.gok.selin.notdefterimgyk.MainActivity">
+
+
+    <EditText
+        android:id="@+id/editTextBaslik"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="Başlık" />
+
+    <EditText
+        android:id="@+id/editTextDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="Detay" />
+
+    <Button
+        android:id="@+id/buttonKaydet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kaydet" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/listViewBaslikListe"
+        android:background="#F548"
+        />
+
+
+</LinearLayout>
