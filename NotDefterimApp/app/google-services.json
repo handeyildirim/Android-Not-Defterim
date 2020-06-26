@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:379197493654:android:b8a6aeff8b988065",
         "android_client_info": {
-          "package_name": "com.gok.selin.googlesignin"
+          "package_name": "com.yildirim.hande.googlesignin"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "379197493654-qdoft2nl1e5r2cn1fagvpmi38v2vgs1b.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.gok.selin.googlesignin",
+            "package_name": "com.yildirim.hande.googlesignin",
             "certificate_hash": "0d3f687daa893258616b272771c2c02322b20271"
           }
         },
@@ -54,7 +54,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:379197493654:android:965d8cf6fb25e29e",
         "android_client_info": {
-          "package_name": "com.gok.selin.notdefterimgyk"
+          "package_name": "com.yildirim.hande.notdefterimgyk"
         }
       },
       "oauth_client": [
